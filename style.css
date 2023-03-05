@@ -1,0 +1,18 @@
+hr{
+    border: dotted;
+    
+}
+
+body{
+    color:rgb(197, 30, 230) ;  
+    background-color:aqua;
+}
+
+#head{
+    color:rgba(8, 76, 5, 0.8)
+}
+.bottom{
+    margin: 0 0 0 45%;
+color: rgba(230, 30, 63, 0.8);
+
+}
